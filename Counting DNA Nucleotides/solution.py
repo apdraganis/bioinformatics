@@ -22,7 +22,7 @@ s = input()
 
 
 # V.2
-# def qt(s):
+# def count_nucleotides(s):
 #     return s.count("A"), s.count("G"), s.count("C"), s.count("T")
 
 # print(qt(s))
