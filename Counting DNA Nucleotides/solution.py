@@ -1,4 +1,4 @@
-# Beginner's solution
+# V.1
 s = input()
 # adenine = 0
 # guanine = 0
@@ -19,13 +19,13 @@ s = input()
 # print(adenine, cytosine, guanine, thimine)
 
 
-# other solutions
 
-# V.1
+
+# V.2
 # def qt(s):
 #     return s.count("A"), s.count("G"), s.count("C"), s.count("T")
 
 # print(qt(s))
 
-# V.2
+# V.3
 # print(*map(input().count, "ACGT"))
