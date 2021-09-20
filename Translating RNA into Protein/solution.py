@@ -1,7 +1,3 @@
-#  (hard code?) a dictionary for RNA codon table
-#  loop through the given RNA string
-#  every 3 characters, check in the dictionary for key-value pair.
-
 rna_codon_dict = {
   "UUU": "F",      "CUU": "L",      "AUU": "I",      "GUU": "V",
   "UUC": "F",      "CUC": "L",      "AUC": "I",      "GUC": "V",
