@@ -1,4 +1,4 @@
 # bioinformatics
-Bioinformatics exercises in python.
+Here you can find my solutions for bioinformatics problems provided by rosalind.info
 
-Solution scripts are constantly improved!
+Solutions are constantly improved!
